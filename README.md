@@ -5,7 +5,7 @@
 <!-- ⚡ Typing Animation -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00C9FF&center=true&vCenter=true&width=700&lines=B.Tech+IT+Student;C+%7C+C%2B%2B+%7C+Python+Programmer;Future+Software+Engineer;Learning+Every+Day🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00C9FF&center=true&vCenter=true&width=700&lines=B.Tech+IT+Student;C+%7C+C%2B%2B+%7C+Python+Programmer;Future+Software+Engineer;Learning+Every+Day🚀;Leetcoder" />
 </p>
 
 ---
