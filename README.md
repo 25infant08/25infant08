@@ -1,6 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B79A1,100:283E51&height=220&section=header&text=Infant%20Praveenkumar%20V&fontSize=40&fontColor=ffffff&animation=fadeIn"/><p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00C9FF&center=true&vCenter=true&width=800&lines=B.Tech+Information+Technology+Student;Aspiring+Software+Engineer;C+%7C+C%2B%2B+%7C+Python+%7C+JavaScript;Full+Stack+Web+Development+Learner;Node.js+%7C+MongoDB+%7C+MySQL;LeetCode+%26+DSA+Enthusiast+🚀" />
-</p>---
+</p>
+
+---
 
 👨‍💻 About Me
 
@@ -31,19 +33,25 @@ Aspiring Software Engineer passionate about building scalable applications, solv
   </a>  <a href="mailto:infantpraveenkumarv@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>---
+</p>
+
+---
 
 💻 Programming Languages
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" />
-</p>---
+</p>
+
+---
 
 ⚡ Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,mongodb,mysql,git,github,vscode" />
-</p>---
+</p>
+
+---
 
 🏅 Certifications
 
@@ -161,13 +169,17 @@ Full Stack Web Development Intern
   <img src="https://github-readme-stats.vercel.app/api?username=25infant08&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p><p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=25infant08&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>---
+</p>
+
+---
 
 📈 GitHub Activity Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=25infant08&theme=tokyo-night"/>
-</p>---
+</p>
+
+---
 
 🏆 Achievements
 
@@ -201,7 +213,7 @@ I enjoy turning ideas into code and solving real-world problems through programm
 
 🔥 Daily Motivation
 
-«"Every small achievement is a step towards bigger goals."»
+"Every small achievement is a step towards bigger goals."
 
 ---
 
@@ -209,6 +221,8 @@ I enjoy turning ideas into code and solving real-world problems through programm
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=25infant08&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>---
+</p>
+
+---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:283E51,100:4B79A1&height=120&section=footer"/>
