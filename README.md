@@ -165,9 +165,3 @@ GitHub Analytics
 </p>
 
 ---
-
- Profile Views
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=25infant08&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>---
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:283E51,100:4B79A1&height=120&section=footer"/>
