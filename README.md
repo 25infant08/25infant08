@@ -213,7 +213,13 @@ I enjoy turning ideas into code and solving real-world problems through programm
 
 ## 🔥 Daily Motivation
 
->### Every small achievement is a step towards bigger goals.
+<table>
+  <tr>
+    <td>
+      **" Every small achievement is a step towards bigger goals. "**
+    </td>
+  </tr>
+</table> 
 
 ---
 
