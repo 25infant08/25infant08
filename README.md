@@ -211,9 +211,9 @@ I enjoy turning ideas into code and solving real-world problems through programm
 
 ---
 
-🔥 Daily Motivation
+## 🔥 Daily Motivation
 
-"Every small achievement is a step towards bigger goals."
+>**" Every small achievement is a step towards bigger goals. "**
 
 ---
 
