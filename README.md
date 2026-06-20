@@ -1,19 +1,25 @@
 👋 Hi, I'm Infant Praveenkumar V
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B79A1,100:283E51&height=220&section=header&text=Infant%20Praveenkumar%20V&fontSize=40&fontColor=ffffff&animation=fadeIn"/><p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00C9FF&center=true&vCenter=true&width=800&lines=B.Tech+Information+Technology+Student;Aspiring+Software+Engineer;C+%7C+C%2B%2B+%7C+Python+%7C+JavaScript;Full+Stack+Web+Development+Learner;Node.js+%7C+MongoDB+%7C+MySQL;LeetCode+%26+DSA+Enthusiast+🚀" />
-</p>---
+</p>
+
+---
+
  About Me
 <img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"/> 
- B.Tech Information Technology Student
- Skilled in C, C++, Python and JavaScript
- Knowledge of HTML, CSS, Node.js, MongoDB and MySQL
- Certified in Python Basics, Intermediate, Advanced and Expert
- Currently gaining hands-on experience through a Full Stack Web Development Internship
- Exploring Data Structures & Algorithms
- Passionate about Software Development and Problem Solving
- Goal: Become a Software Engineer
+ * B.Tech Information Technology Student
+ * Skilled in C, C++, Python and JavaScript
+ * Knowledge of HTML, CSS, Node.js, MongoDB and MySQL
+ * Certified in Python Basics, Intermediate, Advanced and Expert
+ * Currently gaining hands-on experience through a Full Stack Web Development Internship
+ * Exploring Data Structures & Algorithms
+ * Passionate about Software Development and Problem Solving
+ * Goal: Become a Software Engineer
+
 ---
+
 🔗 Connect With Me
+
 <p align="center">
   <a href="https://github.com/25infant08">
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github"/>
@@ -22,15 +28,20 @@
   </a>  <a href="mailto:infantpraveenkumarv@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>---
+</p>
+
+---
+
 💻 Programming Languages
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" />
-</p>---
+</p>
+---
  Tech Stack
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,mongodb,mysql,git,github,vscode" />
-</p>---
+</p>
+---
  Certifications
    HCL GUVI
 ✔ Python Basics Certification
@@ -87,7 +98,8 @@ Currently Learning
 🏆 GitHub Trophies
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=25infant08&theme=tokyonight&no-frame=true&margin-w=10"/>
-</p>---
+</p>
+---
  GitHub Analytics
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=25infant08&theme=tokyonight&hide_border=true"/>
@@ -95,11 +107,13 @@ Currently Learning
   <img src="https://github-readme-stats.vercel.app/api?username=25infant08&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p><p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=25infant08&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>---
+</p>
+---
  GitHub Activity Graph
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=25infant08&theme=tokyo-night"/>
-</p>---
+</p>
+---
 🏆 Achievements
 ✔ Completed Python Certification Track
 ✔ Started Full Stack Web Development Internship
@@ -118,7 +132,8 @@ Currently Learning
 🔥 Daily Motivation
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>---
+</p>
+---
  Profile Views
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=25infant08&label=Profile%20Views&color=0e75b6&style=flat"/>
