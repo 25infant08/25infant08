@@ -120,13 +120,6 @@ Python Projects
 
 ---
 
-🏆 GitHub Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=25infant08&theme=tokyonight&no-frame=true&margin-w=10"/>
-</p>
-
----
-
 GitHub Analytics
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=25infant08&theme=tokyonight&hide_border=true"/>
