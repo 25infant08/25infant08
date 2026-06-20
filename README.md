@@ -4,12 +4,12 @@
 </p>---
 👨‍💻 About Me
 <img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"/>🎓 B.Tech Information Technology Student
-💻 Passionate about Software Development and Problem Solving
-🚀 Currently learning Full Stack Web Development using MERN Stack
-📚 Exploring Data Structures & Algorithms
-🔥 Consistently solving coding problems and improving development skills
-🌱 Interested in Backend Development, Web Applications and Software Engineering
-🎯 Goal: Become a Skilled Software Engineer
+ Passionate about Software Development and Problem Solving
+ Currently learning Full Stack Web Development using MERN Stack
+ Exploring Data Structures & Algorithms
+ Consistently solving coding problems and improving development skills
+ Interested in Backend Development, Web Applications and Software Engineering
+ Goal: Become a Skilled Software Engineer
 ---
 🔗 Connect With Me
 <p align="center">
@@ -29,11 +29,11 @@
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank"/>
   </a>
 </p>---
-⚡ Tech Stack
+ Tech Stack
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,javascript,react,nodejs,express,mongodb,git,github,vscode" />
 </p>---
-🌱 Currently Learning
+ Currently Learning
 - React.js
 - Node.js
 - Express.js
@@ -44,31 +44,31 @@
 - Git & GitHub Workflows
 ---
 🚀 Featured Projects
-🔐 Full Stack Authentication System
+ Full Stack Authentication System
 - User Registration & Login
 - React Frontend
 - Express Backend
 - MongoDB Database
-🌐 Personal Portfolio Website
+ Personal Portfolio Website
 - Responsive Design
 - HTML, CSS, JavaScript
 - Modern UI
-🐍 Python Projects
+ Python Projects
 - Calculator
 - File Handling
 - Automation Scripts
-💻 DSA & LeetCode Solutions
+ DSA & LeetCode Solutions
 - Problem Solving in C++
 - Arrays
 - Strings
 - Recursion
 - Basic Algorithms
 ---
-🏆 GitHub Trophies
+ GitHub Trophies
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=25infant08&theme=tokyonight&no-frame=true&margin-w=10"/>
 </p>---
-📊 GitHub Analytics
+ GitHub Analytics
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=25infant08&theme=tokyonight&hide_border=true"/>
 </p><p align="center">
@@ -76,7 +76,7 @@
 </p><p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=25infant08&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>---
-📈 GitHub Activity Graph
+ GitHub Activity Graph
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=25infant08&theme=tokyo-night"/>
 </p>---
@@ -88,14 +88,14 @@
 ✔ Exploring Open Source Development
 ✔ Active GitHub Learner
 ---
-⚡ Fun Fact
-💡 I enjoy turning ideas into code and solving real-world problems through programming.
+ Fun Fact
+ I enjoy turning ideas into code and solving real-world problems through programming.
 ---
 🔥 Daily Motivation
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>---
-👀 Profile Views
+ Profile Views
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=25infant08&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>---
