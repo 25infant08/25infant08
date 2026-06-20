@@ -1,21 +1,23 @@
-👋 Hi, I'm Infant Praveenkumar V
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B79A1,100:283E51&height=220&section=header&text=Infant%20Praveenkumar%20V&fontSize=40&fontColor=ffffff&animation=fadeIn"/><p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00C9FF&center=true&vCenter=true&width=800&lines=B.Tech+Information+Technology+Student;Aspiring+Software+Engineer;C+%7C+C%2B%2B+%7C+Python+%7C+JavaScript;Full+Stack+Web+Development+Learner;Node.js+%7C+MongoDB+%7C+MySQL;LeetCode+%26+DSA+Enthusiast+🚀" />
-</p>
+</p>---
+
+👨‍💻 About Me
+
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"/>- B.Tech Information Technology Student
+- Skilled in C, C++, Python and JavaScript
+- Knowledge of HTML, CSS, Node.js, MongoDB and MySQL
+- Certified in Python Basics, Intermediate, Advanced and Expert
+- Currently gaining hands-on experience through a Full Stack Web Development Internship
+- Exploring Data Structures & Algorithms
+- Passionate about Software Development and Problem Solving
+- Goal: Become a Software Engineer
 
 ---
 
- About Me
- 
-<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"/> 
- * B.Tech Information Technology Student
- * Skilled in C, C++, Python and JavaScript
- * Knowledge of HTML, CSS, Node.js, MongoDB and MySQL
- * Certified in Python Basics, Intermediate, Advanced and Expert
- * Currently gaining hands-on experience through a Full Stack Web Development Internship
- * Exploring Data Structures & Algorithms
- * Passionate about Software Development and Problem Solving
- * Goal: Become a Software Engineer
+🎯 Career Objective
+
+Aspiring Software Engineer passionate about building scalable applications, solving real-world problems, and continuously learning new technologies.
 
 ---
 
@@ -29,139 +31,184 @@
   </a>  <a href="mailto:infantpraveenkumarv@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
-
----
+</p>---
 
 💻 Programming Languages
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" />
-</p>
+</p>---
 
----
+⚡ Tech Stack
 
- Tech Stack
- 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,mongodb,mysql,git,github,vscode" />
-</p>
+</p>---
+
+🏅 Certifications
+
+HCL GUVI Certifications
+
+- Python Basics
+
+- Python Intermediate
+
+- Python Advanced
+
+- Python Expert
 
 ---
 
- Certifications
- 
-   HCL GUVI
-   
-* Python Basics Certification
-* Python Intermediate Certification
-* Python Advanced Certification
-* Python Expert Certification
-
----
-
- Internship Experience
+💼 Internship Experience
 
 Full Stack Web Development Intern
-* Working on Frontend and Backend Development
-* Building Web Applications using HTML, CSS, JavaScript and Node.js
-* Learning Database Integration using MongoDB and MySQL
-* Gaining hands-on experience in Full Stack Development
-* Working on real-world development tasks
-* Leanring Cyber Security
+
+- Working on Frontend and Backend Development
+
+- Building Web Applications using HTML, CSS, JavaScript and Node.js
+
+- Working with MongoDB and MySQL databases
+
+- Gaining hands-on experience in Full Stack Development
+
+- Working on real-world development tasks
+
+- Learning Cybersecurity Fundamentals
 
 ---
 
-Core Concepts
-* Data Structures & Algorithms
-* Object-Oriented Programming
-* Database Management Systems
-* Problem Solving
-* Web Development Fundamentals
+📚 Core Concepts
+
+- Data Structures & Algorithms
+
+- Object-Oriented Programming
+
+- Database Management Systems
+
+- Problem Solving
+
+- Web Development Fundamentals
 
 ---
 
-Currently Learning
-* Data Structures & Algorithms
-* LeetCode Problem Solving
-* Full Stack Web Development
-* Backend Development using Node.js
-* MongoDB Database Integration
-* Git & GitHub Workflows
+🌱 Currently Learning
+
+- Data Structures & Algorithms
+
+- LeetCode Problem Solving
+
+- Full Stack Web Development
+
+- Backend Development using Node.js
+
+- MongoDB Database Integration
+
+- Git & GitHub Workflows
+
+- Cybersecurity Fundamentals
 
 ---
 
 🚀 Featured Projects
 
- Full Stack Web Application
-* Frontend using HTML, CSS and JavaScript
-* Backend using Node.js
-* Database Integration
+💻 Full Stack Web Application
 
- Personal Portfolio Website
-* Responsive Design
-* Modern UI
-* Web Technologies
+- Frontend using HTML, CSS and JavaScript
 
-Python Projects
-* Calculator
-* File Handling
-* Basic Automation Programs
+- Backend using Node.js
+
+- Database Integration
+
+🌐 Personal Portfolio Website
+
+- Responsive Design
+
+- Modern UI
+
+- Web Technologies
+
+🐍 Python Projects
+
+- Calculator
+
+- File Handling
+
+- Basic Automation Programs
 
 ---
 
- Highlights
-* Python Certified (Basics, Intermediate, Advanced, Expert)
-* Full Stack Web Development Intern
-* Active LeetCode Learner
-* Strong Foundation in Programming
-* Building Real-World Projects
-* Continuous Learner and Problem Solver
+🌟 Highlights
+
+- Python Certified (Basics, Intermediate, Advanced, Expert)
+
+- Full Stack Web Development Intern
+
+- Active LeetCode Learner
+
+- Strong Foundation in Programming
+
+- Building Real-World Projects
+
+- Continuous Learner and Problem Solver
 
 ---
 
-GitHub Analytics
+📊 GitHub Analytics
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=25infant08&theme=tokyonight&hide_border=true"/>
 </p><p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=25infant08&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p><p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=25infant08&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+</p>---
 
----
+📈 GitHub Activity Graph
 
- GitHub Activity Graph
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=25infant08&theme=tokyo-night"/>
-</p>
-
----
+</p>---
 
 🏆 Achievements
-* Completed Python Certification Track
-* Started Full Stack Web Development Internship
-* Building Web Development Projects
-* Learning Data Structures & Algorithms
-* Exploring Software Development
-* Learning Cyber Security
+
+- Completed Python Certification Track
+
+- Started Full Stack Web Development Internship
+
+- Building Web Development Projects
+
+- Learning Data Structures & Algorithms
+
+- Exploring Software Development
+
+- Learning Cybersecurity Fundamentals
 
 ---
 
- Languages
-* English
-* Tamil
+🌍 Languages
+
+- English
+
+- Tamil
 
 ---
 
- Fun Fact
- * I enjoy turning ideas into code and solving real-world problems through programming.
+⚡ Fun Fact
+
+I enjoy turning ideas into code and solving real-world problems through programming.
 
 ---
 
 🔥 Daily Motivation
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
+
+«"Every small achievement is a step towards bigger goals."»
 
 ---
+
+👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=25infant08&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:283E51,100:4B79A1&height=120&section=footer"/>
