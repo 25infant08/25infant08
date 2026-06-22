@@ -6,7 +6,8 @@
 
 👨‍💻 About Me
 
-<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"/>- B.Tech Information Technology Student
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"/>
+- B.Tech Information Technology Student
 - Skilled in C, C++, Python and JavaScript
 - Knowledge of HTML, CSS, Node.js, MongoDB and MySQL
 - Certified in Python Basics, Intermediate, Advanced and Expert
